@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/RanaAhmar/caching-strategies-guide?style=for-the-badge)](https://github.com/RanaAhmar/caching-strategies-guide/stargazers) [![Issues](https://img.shields.io/github/issues/RanaAhmar/caching-strategies-guide?style=for-the-badge)](https://github.com/RanaAhmar/caching-strategies-guide/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/RanaAhmar/caching-strategies-guide/blob/main/LICENSE)
+
 # 💾 Caching Strategies Guide
 
 Everything you need to know about Redis, Memcached, and CDN caching. Invalidation patterns and TTL optimization. By **Ahmar Hussain** (**Stackaura**).
@@ -35,6 +37,18 @@ If you found this tool useful, check out our other high-performance web utilitie
 
 
 
+
+
+---
+### 🌟 Part of the [Stackaura](https://github.com/RanaAhmar) Ecosystem
+*Empowering developers with automated tools and high-performance solutions.*
+
+**Explore more:**
+- 🚀 [All Projects](https://github.com/RanaAhmar?tab=repositories)
+- 🛠️ [Daily Coding Tips](https://github.com/RanaAhmar/daily-coding-tips)
+- 📊 [Profile Dashboard](https://github.com/RanaAhmar/RanaAhmar)
+
+*If you find this project useful, please consider giving it a star! ⭐*
 
 
 ---
